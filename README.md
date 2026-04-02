@@ -3,7 +3,7 @@
 
 My tech journey began with writing code as a developer, but my curiosity led me to specialize in what I'm most passionate about today: cloud architecture and security.
 
-I recently certified my skills as an <b>AWS Certified Solutions Architect - Associate </b>, which allows me to design solutions that are not only functional but also scalable and efficient. ☁️
+I recently certified my skills as an <b>AWS Certified Solutions Architect - Associate</b>, which allows me to design solutions that are not only functional but also scalable and efficient. ☁️
 
 My main technologies are AWS, Prisma Cloud, and Terraform.
 
