@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Paola</h1>
-<h3 align="center">An engineer at heart and curious by nature. My journey in technology has taken me from pure Python code to orchestrating complex clouds.
+<h3 align="center"></h3>
+An engineer at heart and curious by nature. My journey in technology has taken me from pure Python code to orchestrating complex clouds.
 
 I firmly believe that security isn't a patch, but a foundation, which is why I always try to apply a DevSecOps mindset to everything I do.
 
-Fun fact: My technical "support team" consists of my four cats, who oversee every single one of my commits (though sometimes they just walk on the keyboard).</h3>
-
+Fun fact: My technical "support team" consists of my four cats, who oversee every single one of my commits (though sometimes they just walk on the keyboard).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
